@@ -129,7 +129,7 @@ export const experiences = [
         date: "2023",
         points: [
             "Creación de una aplicación móvil para mostrar información de películas, consumiendo datos de una API.",
-            "Repositorio: [AppPelicula en GitHub](https://github.com/ThePowersr/AppPelicula)",
+            "Repositorio: https://github.com/ThePowersr/AppPelicula",
         ],
     },
     {
@@ -141,8 +141,8 @@ export const experiences = [
         points: [
             "Desarrollo de una aplicación web con React utilizando Vite.",
             "Permite el control de gastos del usuario en base a un presupuesto.",
-            "Repositorio: [Control-Gastos-React-Vite en GitHub](https://github.com/ThePowersr/Control-Gastos-React-Vite)",
-            "Sitio web: [Control Gastos App](https://controlgastosrafael.netlify.app/)",
+            "Repositorio: https://github.com/ThePowersr/Control-Gastos-React-Vite",
+            "Sitio web: https://controlgastosrafael.netlify.app/",
         ],
     },
     {
@@ -152,8 +152,7 @@ export const experiences = [
         iconBg: "#tuColor5", // Reemplazar con el color correspondiente.
         date: "2022",
         points: [
-            "Desarrollo de un proyecto en React para visualizar las principales 100 criptomonedas con sus precios actuales.",
-            "Sitio web: [EdMarketCriptos](https://edmarketcriptos.netlify.app/criptomonedas)",
+            "Desarrollo de un proyecto en React para visualizar las principales 100 criptomonedas con sus precios actuales."
         ],
     },
 ];
