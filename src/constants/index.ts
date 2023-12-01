@@ -72,11 +72,11 @@ export const skills = [
         name: "React",
         type: "Frontend",
     },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
+    // {
+    //     imageUrl: redux,
+    //     name: "Redux",
+    //     type: "State Management",
+    // },
     {
         imageUrl: sass,
         name: "Sass",
